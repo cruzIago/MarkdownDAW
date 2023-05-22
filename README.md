@@ -41,6 +41,6 @@ Esto es `una sola línea de código` para distinguirla
 
 Escapando \* caracteres \* en Markdown
 
-[Hipervínculo a Wikipedia](www.wikipedia.org)
+[Hipervínculo a Wikipedia](http://www.wikipedia.org)
 
 ![Imagen de ejemplo](https://es.wikipedia.org/wiki/Torneo_de_Roland_Garros#/media/Archivo:Roland_Garros_2012_-_Roland_Garros_logo_(8754295763).jpg)
