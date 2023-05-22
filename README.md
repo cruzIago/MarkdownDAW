@@ -43,4 +43,4 @@ Escapando \* caracteres \* en Markdown
 
 [Hipervínculo a Wikipedia](http://www.wikipedia.org)
 
-![Imagen de ejemplo](https://es.wikipedia.org/wiki/Torneo_de_Roland_Garros#/media/Archivo:Roland_Garros_2012_-_Roland_Garros_logo_(8754295763).jpg)
+![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg/1024px-Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg)
